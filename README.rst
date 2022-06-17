@@ -16,4 +16,4 @@ hidden details of the Python code.
  pxplore.print_symbols()
 
  # print symbols offered by a module
- pxplore.print_module_symbols()
+ pxplore.print_module_symbols(pxplore)
